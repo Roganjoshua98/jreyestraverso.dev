@@ -1,2 +1,2 @@
-# jreyestraverso.xyz
+# jreyestraverso.dev
 My personal tiny website!
